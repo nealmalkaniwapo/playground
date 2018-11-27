@@ -23,6 +23,7 @@ jobs:
           command: |
             ls
             pwd
+            npm run build
           
 
 #       # Download and cache dependencies
